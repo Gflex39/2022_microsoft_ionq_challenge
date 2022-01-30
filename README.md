@@ -8,6 +8,7 @@ Players can specify the qubit(s) which gates are to be applied to
 Players can apply gates to other players’ qubits
 
 How to play Quantum Poker:
+
 1.Once the program is run from the game.ipynb file, you will play the game in the terminal.
 
 2.You are first prompted to enter the number of players. Input the amount and press enter to start playing the game. You may have up to six players in a game.
